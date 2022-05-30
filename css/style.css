@@ -1,0 +1,40 @@
+.six{
+    margin: -40px auto;
+   padding-left: 130px;
+}
+.eight{
+    margin: -20px auto;
+   padding-left: 150px;
+}
+.container .item{
+       box-shadow: 10px 10px 10px 5px rgba(224, 179, 179, 0.15);
+}
+.container{
+    display: grid;
+    grid-template-columns: 280px 280px 280px 280px ;
+}
+.item{
+    height: 400px; ;
+    width: 250px;
+    background-color: white;
+    margin-top: 50px;
+}
+.first{
+    margin-top: 15px;
+}
+.second{
+    margin-top: 15px;
+}
+.third{
+    margin-top: 15px;
+}
+.fourth{
+    margin-top: 15px;
+}
+.fifth{
+    margin-top: 29px;
+}
+.seven{
+    margin-top: 60px;
+    margin-left: 75px;
+}
